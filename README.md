@@ -18,5 +18,7 @@ SVC                         | 0.9164
 Voting Classifier           | 0.9159
 
 
+
 XG Boost                    | 0.92 (f1-score)
+
 Deep Neural Network         | 0.9159 (train test split)
