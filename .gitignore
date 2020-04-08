@@ -1,7 +1,4 @@
 .ipynb_checkpoints/
-sample_submission.csv
-Submission.csv
-test.csv
-train.csv
+*.csv
 whoisafriend.zip
 .git/
